@@ -81,7 +81,7 @@
     "@tds/core-text": "^3.1.1",
     "@tds/core-unordered-list": "^3.0.21",
     "@tds/core-web-video": "^1.1.20",
-    "@telus/remark-config": "^1.2.0",
+    "@telus/remark-config": "^2.0.0",
     "@telusdigital/eslint-config": "^1.2.0",
     "all-contributors-cli": "^4.11.1",
     "autoprefixer": "^8.3.0",
