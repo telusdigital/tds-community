@@ -84,7 +84,7 @@
     "@telus/remark-config": "^1.2.0",
     "@telusdigital/eslint-config": "^1.2.0",
     "all-contributors-cli": "^4.11.1",
-    "autoprefixer": "^8.3.0",
+    "autoprefixer": "^10.0.0",
     "aws-sdk": "^2.230.1",
     "babel-eslint": "^10.0.1",
     "babel-jest": "^24.0.0",
