@@ -21,7 +21,7 @@
   },
   "homepage": "http://tds.telus.com",
   "peerDependencies": {
-    "@tds/core-heading": "^2.2.5",
+    "@tds/core-heading": "^3.0.4",
     "@tds/core-image": "^2.0.12",
     "@tds/core-text": "^3.0.4",
     "react": "^16.8.2",
