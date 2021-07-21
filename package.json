@@ -64,7 +64,7 @@
     "@tds/core-card": "^2.3.4",
     "@tds/core-chevron-link": "^2.1.16",
     "@tds/core-colours": "^2.2.1",
-    "@tds/core-css-reset": "^2.0.5",
+    "@tds/core-css-reset": "^3.0.0",
     "@tds/core-dimple-divider": "^2.0.16",
     "@tds/core-flex-grid": "^4.0.1",
     "@tds/core-hairline-divider": "^2.0.13",
