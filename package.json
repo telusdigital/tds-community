@@ -122,7 +122,7 @@
     "nightwatch-accessibility": "^1.6.0",
     "node-emoji": "^1.8.1",
     "node-resemble-js": "^0.2.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^6.0.0",
     "node-sass-tilde-importer": "^1.0.2",
     "npm-run-all": "^4.1.2",
     "postcss-loader": "^3.0.0",
