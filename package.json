@@ -114,7 +114,7 @@
     "jest-styled-components": "^7.0.0-2",
     "lerna": "^3.14.1",
     "lerna-update-wizard": "^0.11.1",
-    "lint-staged": "^7.0.4",
+    "lint-staged": "^11.0.0",
     "minimist": "^1.2.5",
     "mkdirp": "^0.5.1",
     "moment": "^2.24.0",
