@@ -83,7 +83,7 @@
     "@tds/core-web-video": "^1.1.20",
     "@telus/remark-config": "^1.2.0",
     "@telusdigital/eslint-config": "^1.2.0",
-    "all-contributors-cli": "^4.11.1",
+    "all-contributors-cli": "^5.0.0",
     "autoprefixer": "^8.3.0",
     "aws-sdk": "^2.230.1",
     "babel-eslint": "^10.0.1",
