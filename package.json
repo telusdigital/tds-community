@@ -92,7 +92,7 @@
     "babel-plugin-styled-components": "^1.10.2",
     "babel-polyfill": "^6.26.0",
     "case": "^1.5.4",
-    "chromedriver": "^76.0.0",
+    "chromedriver": "^91.0.0",
     "commitizen": "^4.2.3",
     "css-mediaquery": "^0.1.2",
     "css-modules-loader-core": "^1.1.0",
